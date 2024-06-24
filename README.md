@@ -29,3 +29,4 @@ Model Selection:
 Running the Application:
 To run the application, follow these steps:
 1.	Run the Flask application using python app.py.
+2.	OR use http://127.0.0.1:5000/
