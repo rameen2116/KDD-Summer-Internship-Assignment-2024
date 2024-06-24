@@ -1,0 +1,33 @@
+.jumbotron{
+    background-color: orchid;
+}
+.original_article{
+    background-color: palevioletred;
+    font-size: 20px;
+    font-weight: flex;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+
+}
+.summary_tittle{
+    background-color: peachpuff;
+    font-size: 20px;
+    font-weight: flex;
+    padding: 2px;
+    display: flex;
+    justify-content: center;
+}
+.srt{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.ss {
+    background-color: plum;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40px; /* Adjust as needed */
+    margin-top: 20px; /* Adjust as needed */
+}
